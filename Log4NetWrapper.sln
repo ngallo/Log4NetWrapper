@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4NetApp", "src\Log4NetApp\Log4NetApp.csproj", "{DA9FDD70-7946-49FA-917C-8D3DC4D68E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4NetWrapper", "src\Log4NetWrapper\Log4NetWrapper.csproj", "{1A4FE0D1-5D03-41DD-BA6E-DD54B36AC8A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA9FDD70-7946-49FA-917C-8D3DC4D68E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9FDD70-7946-49FA-917C-8D3DC4D68E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9FDD70-7946-49FA-917C-8D3DC4D68E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9FDD70-7946-49FA-917C-8D3DC4D68E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A4FE0D1-5D03-41DD-BA6E-DD54B36AC8A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4FE0D1-5D03-41DD-BA6E-DD54B36AC8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4FE0D1-5D03-41DD-BA6E-DD54B36AC8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4FE0D1-5D03-41DD-BA6E-DD54B36AC8A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

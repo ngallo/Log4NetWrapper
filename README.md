@@ -1,2 +1,3 @@
 # Log4NetWrapper
-A Log4Net wrapper
+
+A testable logging wrapper for Log4Net.
