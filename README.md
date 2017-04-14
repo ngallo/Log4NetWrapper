@@ -1,3 +1,3 @@
 # Log4NetWrapper
 
-A testable logging wrapper for Log4Net.
+.NET Samples - A testable logging wrapper for Log4Net.
